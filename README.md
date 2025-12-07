@@ -29,7 +29,7 @@ VIDEO SCRIPT
 [0:00 - 0:30] INTRODUCTION
 [Show desktop with 3 empty terminals]
 
-*Speaker 1:*
+**Speaker 1:**
 
 "Assalam-o-Alaikum everyone. I'm [Name], and today we'll be demonstrating our Computer Networks Lab project - the FAST-NUCES Multi-Campus Communication System."
 
